@@ -81,10 +81,10 @@ WSGI_APPLICATION = 'burritos_project.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'burritos_db',
-        'USER': 'root',
-        'PASSWORD': '',
-        'HOST': 'localhost',
+        'NAME': 'amadorayalabacke$burritos_db',
+        'USER': 'amadorayalabacke',
+        'PASSWORD': 'AAAA060113_carlo',
+        'HOST': 'amadorayalabackend.mysql.pythonanywhere-services.com',
         'PORT': '3306'
     }
 }
